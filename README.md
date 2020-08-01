@@ -32,13 +32,15 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" >][github]  
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" >][github]
 
+<br/>
+
 ---
 
 ### Some cool courses I've done which I cant make public:
 
-- A great way to learn algorithms is part 1 and 2 of this [course][https://www.coursera.org/learn/algorithms-part1] by Princeton
-- If you want to learn about the fundamentals of a computer and how one is actually built [NandToTetris][https://www.coursera.org/learn/build-a-computer/home/welcome] is amazing!
-- I found AWS [course][https://www.aws.training/Details/Curriculum?id=27076] an amazing introduction to cloud computing and great preparation for the Cloud Practitioner Certification!
+- A great way to learn algorithms is part 1 and 2 of this [course][algos] by Princeton
+- If you want to learn about the fundamentals of a computer and how one is actually built, [NandToTetris][nand] is amazing!
+- I found AWS [course][aws] an amazing introduction to cloud computing and great preparation for the Cloud Practitioner Certification!
 
 --
 
@@ -48,3 +50,6 @@
 [linkedin]: https://www.linkedin.com/in/finn-hudson/
 [instagram]: https://www.instagram.com/the_project_bot/
 [github]: https://github.com/HudsonFinn/HudsonFinn
+[algos]: https://www.coursera.org/learn/algorithms-part1
+[nand]: https://www.coursera.org/learn/build-a-computer/home/welcome
+[aws]: https://www.aws.training/Details/Curriculum?id=27076
