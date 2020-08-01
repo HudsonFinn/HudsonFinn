@@ -44,7 +44,7 @@
 
 ---
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HudsonFinn&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HudsonFinn&show_icons=true&hide_border=true&count_private=true&hide_rank=true" />
 
 [website]: finnhudson.co.uk
 [linkedin]: https://www.linkedin.com/in/finn-hudson/
