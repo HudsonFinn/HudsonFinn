@@ -22,20 +22,29 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" >]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" >]
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" >]
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" >]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" >]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" >]
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" >]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" >][github]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >][github]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >][github]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" >][github]
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" >][github]
+[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" >][github]
+[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" >][github]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" >][github]  
+[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" >][github]
 
 ---
+
+### Some cool courses I've done which I cant make public:
+
+- A great way to learn algorithms is part 1 and 2 of this [course][https://www.coursera.org/learn/algorithms-part1] by Princeton
+- If you want to learn about the fundamentals of a computer and how one is actually built [NandToTetris][https://www.coursera.org/learn/build-a-computer/home/welcome] is amazing!
+- I found AWS [course][https://www.aws.training/Details/Curriculum?id=27076] an amazing introduction to cloud computing and great preparation for the Cloud Practitioner Certification!
+
+--
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HudsonFinn&show_icons=true&hide_border=true" />
 
 [website]: finnhudson.co.uk
 [linkedin]: https://www.linkedin.com/in/finn-hudson/
 [instagram]: https://www.instagram.com/the_project_bot/
+[github]: https://github.com/HudsonFinn/HudsonFinn
