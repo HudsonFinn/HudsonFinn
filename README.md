@@ -47,10 +47,10 @@
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HudsonFinn&show_icons=true&hide_border=true&count_private=true&hide_rank=true" />
 
-[website]: finnhudson.co.uk
+[website]: https:www.finnhudson.co.uk
 [linkedin]: https://www.linkedin.com/in/finn-hudson/
 [instagram]: https://www.instagram.com/the_project_bot/
-[github]: https://github.com/HudsonFinn/HudsonFinn
+[github]: https://github.com/HudsonFinn
 [algos]: https://www.coursera.org/learn/algorithms-part1
 [nand]: https://www.coursera.org/learn/build-a-computer/home/welcome
 [aws]: https://www.aws.training/Details/Curriculum?id=27076
