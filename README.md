@@ -41,6 +41,7 @@
 - A great way to learn algorithms is part 1 and 2 of this [course][algos] by Princeton
 - If you want to learn about the fundamentals of a computer and how one is actually built, [NandToTetris][nand] is amazing!
 - I found AWS [course][aws] an amazing introduction to cloud computing and great preparation for the Cloud Practitioner Certification!
+- If you want a more certification specific course then this [video][AWScert] from freecodecamp helped me pass my exam in less than 3 days of study.
 - Docker is a super cool technology which I have recently learned about. Its quite hard to find an up to date complete beginner course but [this one][docker] is very good. Make sure you do the hands on labs as well!
 ---
 
@@ -54,3 +55,4 @@
 [nand]: https://www.coursera.org/learn/build-a-computer/home/welcome
 [aws]: https://www.aws.training/Details/Curriculum?id=27076
 [docker]: https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PL6jgPwuZeC2pHBIJNuUQSeBLs8oJm8sW4&index=4
+[AWScert]: https://youtu.be/3hLmDS179YE
