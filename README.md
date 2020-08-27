@@ -1,5 +1,3 @@
-### Stats:
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HudsonFinn&color=red&style=plastic" />
 </p>
@@ -24,16 +22,16 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/-docker-000000?style=flat&logo=docker)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Google&logoColor=007396)
-![Amazon Web Services](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon&logoColor=007396)
-![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java&logoColor=007396)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Google)
+![Amazon Web Services](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon)
+![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java&logoColor=E06C00)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=DF2E31)
+![TKinter](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Python&logoColor=007396)
 <br/>
 
 ---
 
 ## Hey I'm Finn, currently a student at the University of Manchester studying Human Computer Interaction!
-
-<br/>
 
 - 🌐 I'm currently a Google Developer Student Club Lead.
 - 🌱 I'm helping to establish the HCI society.
@@ -41,11 +39,12 @@
 - 🥅 2020 Goal: Learn everything I can about cloud computing!
 - 😊 Fun fact: I'm learning to make cocktails and speak Norwegian!
 
-### Connect with me:
+**Connect with me:**
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="FinnHudson | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="FinnHudson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="FinnHudson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="FinnHudson | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br/>
 <br/>
@@ -61,9 +60,18 @@
 - Docker is a super cool technology which I have recently learned about. Its quite hard to find an up to date complete beginner course but [this one][docker] is very good. Make sure you do the hands on labs as well!
 ---
 
+<a href="https://github.com/HudsonFinn/AlgorithmVisualiser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=AlgorithmVisualiser&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/HudsonFinn/2d-Raycasting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=2d-Raycasting&theme=dracula" />
+</a>
+
 [website]: https:www.finnhudson.co.uk
 [linkedin]: https://www.linkedin.com/in/finn-hudson/
 [instagram]: https://www.instagram.com/the_project_bot/
+[email]: 11finnh@gmail.com
 [github]: https://github.com/HudsonFinn
 [algos]: https://www.coursera.org/learn/algorithms-part1
 [nand]: https://www.coursera.org/learn/build-a-computer/home/welcome
