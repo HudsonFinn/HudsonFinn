@@ -21,11 +21,12 @@
 
 
 ### Stats:
-<a href="https://www.linkedin.com/in/mugheesasif/">
-<p align="center">
-  <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HudsonFinn&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=dark" />
-</p>
-</a>
+
+<div class="d-block">
+    <p align="center">
+      <img align="left" style="d-block" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HudsonFinn&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=dark" />
+    </p>
+</div>
 
 <br>
 
