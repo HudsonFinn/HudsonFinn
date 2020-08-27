@@ -22,10 +22,10 @@
 ### Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=red&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=HudsonFinn&color=red&style=plastic" />
 </p>
 
-<a href="https://www.linkedin.com/in/mugheesasif/">
+<a href="https://www.linkedin.com/in/finn-hudson/">
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=HudsonFinn&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=dark" />
 </p>
@@ -33,21 +33,25 @@
 
 ------------------------------------------------------
 
-### Languages:
+**Languages:**
 
 <br>
 
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" >][github]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >][github]
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" >][github]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" >][github]
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" >][github]
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" >][github]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" >][github]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" >][github]
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" >][github]
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=E06C00)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=2F74C0)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=0078BD)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)
 
+**Tools and libraries:**
+
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/-docker-000000?style=flat&logo=docker)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Google&logoColor=007396)
+![Amazon Web Services](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon&logoColor=007396)
+![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java&logoColor=007396)
 <br/>
 
 ---
@@ -60,8 +64,6 @@
 - If you want a more certification specific course then this [video][AWScert] from freecodecamp helped me pass my exam in less than 3 days of study.
 - Docker is a super cool technology which I have recently learned about. Its quite hard to find an up to date complete beginner course but [this one][docker] is very good. Make sure you do the hands on labs as well!
 ---
-
-
 
 [website]: https:www.finnhudson.co.uk
 [linkedin]: https://www.linkedin.com/in/finn-hudson/
