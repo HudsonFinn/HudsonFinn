@@ -61,11 +61,19 @@
 ---
 
 <a href="https://github.com/HudsonFinn/AlgorithmVisualiser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=AlgorithmVisualiser&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=AlgorithmVisualiser&theme=bear" />
 </a>
 
 <a href="https://github.com/HudsonFinn/2d-Raycasting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=2d-Raycasting&theme=dracula" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=2d-Raycasting&theme=bear" />
+</a>
+
+<a href="https://github.com/HudsonFinn/FileMover">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=FileMover&theme=bear" />
+</a>
+
+<a href="https://github.com/HudsonFinn/Pathfinding">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=PathFinding&theme=bear" />
 </a>
 
 [website]: https:www.finnhudson.co.uk
