@@ -1,24 +1,3 @@
-## Hey I'm Finn, currently a student at the University of Manchester studying Human Computer Interaction!
-
-<br/>
-
-- 🌐 I'm currently a Google Developer Student Club Lead.
-- 🌱 I'm helping to establish the HCI society.
-- 👯 I'm working on the Developer team for the UniCS.
-- 🥅 2020 Goal: Learn everything I can about cloud computing!
-- 😊 Fun fact: I'm learning to make cocktails and speak Norwegian!
-
-### Connect with me:
-
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="FinnHudson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="FinnHudson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
-<br/>
-
----
-
 ### Stats:
 
 <p align="center">
@@ -48,6 +27,27 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Google&logoColor=007396)
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon&logoColor=007396)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java&logoColor=007396)
+<br/>
+
+---
+
+## Hey I'm Finn, currently a student at the University of Manchester studying Human Computer Interaction!
+
+<br/>
+
+- 🌐 I'm currently a Google Developer Student Club Lead.
+- 🌱 I'm helping to establish the HCI society.
+- 👯 I'm working on the Developer team for the UniCS.
+- 🥅 2020 Goal: Learn everything I can about cloud computing!
+- 😊 Fun fact: I'm learning to make cocktails and speak Norwegian!
+
+### Connect with me:
+
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="FinnHudson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="FinnHudson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
 <br/>
 
 ---
