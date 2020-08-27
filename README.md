@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="FinnHudson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="FinnHudson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 <br/>
@@ -20,7 +20,18 @@
 ---
 
 
-### Languages and Tools:
+### Stats:
+<a href="https://www.linkedin.com/in/mugheesasif/">
+<p align="center">
+  <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HudsonFinn&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=dark" />
+</p>
+</a>
+
+<br>
+
+### Languages:
+
+<br>
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" >][github]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >][github]
@@ -46,7 +57,7 @@
 - Docker is a super cool technology which I have recently learned about. Its quite hard to find an up to date complete beginner course but [this one][docker] is very good. Make sure you do the hands on labs as well!
 ---
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HudsonFinn&show_icons=true&hide_border=true&count_private=true&hide_rank=true" />
+
 
 [website]: https:www.finnhudson.co.uk
 [linkedin]: https://www.linkedin.com/in/finn-hudson/
