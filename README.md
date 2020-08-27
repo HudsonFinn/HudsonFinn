@@ -19,7 +19,7 @@
 
 ---
 
-### Stats
+### Stats:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HudsonFinn&color=red&style=plastic" />
@@ -27,15 +27,11 @@
 
 <a href="https://www.linkedin.com/in/finn-hudson/">
 <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=HudsonFinn&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=dark" />
+      <img src="https://github-readme-stats.vercel.app/api?username=HudsonFinn&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=synthwave" />
 </p>
 </a>
 
-------------------------------------------------------
-
 **Languages:**
-
-<br>
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=E06C00)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=007396)
