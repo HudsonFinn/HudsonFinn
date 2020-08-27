@@ -19,16 +19,39 @@
 
 ---
 
+# Quick stats
 
-### Stats:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mughees-asif&color=red&style=plastic" />
+</p>
 
-<div class="d-block">
-    <p align="center">
-      <img align="left" style="d-block" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HudsonFinn&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=dark" />
-    </p>
-</div>
+<a href="https://www.linkedin.com/in/mugheesasif/">
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=HudsonFinn&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=dark" />
+</p>
+</a>
 
-<br>
+------------------------------------------------------
+
+**Languages used:**
+
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+
+**Familiar with:**
+
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![JavaFX](https://img.shields.io/badge/-JavaFX-000000?style=flat&logo=Java&logoColor=007396)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Google&logoColor=007396)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=Gatsby&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=61DAFB)
+
+------------------------------------------------------
 
 ### Languages:
 
