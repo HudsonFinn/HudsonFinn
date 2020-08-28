@@ -31,7 +31,7 @@
 
 ---
 
-## Hey I'm Finn, currently a student at the University of Manchester studying Human Computer Interaction!
+### Hey I'm Finn, currently a student at the University of Manchester studying Human Computer Interaction!
 
 - 🌐 I'm currently a Google Developer Student Club Lead.
 - 🌱 I'm helping to establish the HCI society.
