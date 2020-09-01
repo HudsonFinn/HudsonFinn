@@ -61,6 +61,8 @@
 - I'm currently learning angluar on pluralsight. I'm doing the [55 hour course][Angular55] but if you don't want to go into that much depth then this [9 hour course][Angular9] is a good introduction and will give you a good grounding.
 ---
 
+### Personal Projects
+
 <a href="https://github.com/HudsonFinn/AlgorithmVisualiser">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=AlgorithmVisualiser&theme=bear" />
 </a>
@@ -76,6 +78,13 @@
 <a href="https://github.com/HudsonFinn/Pathfinding">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=PathFinding&theme=bear" />
 </a>
+
+### Group Projects
+
+<a href="https://github.com/HudsonFinn/F.i.o.N.a">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=F.i.o.N.a&theme=bear" />
+</a>
+
 
 [website]: https:www.finnhudson.co.uk
 [linkedin]: https://www.linkedin.com/in/finn-hudson/
