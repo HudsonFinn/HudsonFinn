@@ -95,11 +95,11 @@
 </a>
 
 <a href="https://github.com/gurneetbhatia/HackQuarantine">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gurneetbhatia&repo=HackQuarantine&theme=bear" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gurneetbhatia&repo=HackQuarantine&theme=bear" />
 </a>
 
 <a href="https://github.com/gurneetbhatia/Secure-Text-Editor">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gurneetbhatia&repo=Secure-Text-Editor&theme=bear" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gurneetbhatia&repo=Secure-Text-Editor&theme=bear" />
 </a>
 
 
