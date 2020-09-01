@@ -79,11 +79,14 @@
   <a href="https://github.com/HudsonFinn/Pathfinding">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=PathFinding&theme=bear" />
   </a>
-</p>
+</p al>
 
-<br>
+<br/>
 
----
+
+
+
+
 
 **Group Projects**
 
