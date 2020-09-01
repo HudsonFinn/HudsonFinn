@@ -63,7 +63,7 @@
 
 **Personal Projects**
 
-<div>
+<p>
   <a href="https://github.com/HudsonFinn/AlgorithmVisualiser">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=AlgorithmVisualiser&theme=bear" />
   </a>
@@ -79,7 +79,7 @@
   <a href="https://github.com/HudsonFinn/Pathfinding">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=PathFinding&theme=bear" />
   </a>
-</div>
+</p>
 
 <br>
 
