@@ -91,7 +91,7 @@
 </a>
 
 <a href="https://github.com/HudsonFinn/HackTheBurgh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=HackTheBurg&theme=bear" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=HackTheBurgh&theme=bear" />
 </a>
 
 <a href="https://github.com/gurneetbhatia/HackQuarantine">
