@@ -64,35 +64,39 @@
 **Personal Projects**
 
  <a href="https://github.com/HudsonFinn/AlgorithmVisualiser">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=AlgorithmVisualiser&theme=bear" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=AlgorithmVisualiser&theme=bear" />
  </a>
 
  <a href="https://github.com/HudsonFinn/2d-Raycasting">
-   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=2d-Raycasting&theme=bear" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=2d-Raycasting&theme=bear" />
  </a>
 
  <a href="https://github.com/HudsonFinn/FileMover">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=FileMover&theme=bear" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=FileMover&theme=bear" />
  </a>
 
  <a href="https://github.com/HudsonFinn/Pathfinding">
-   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=PathFinding&theme=bear" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=PathFinding&theme=bear" />
  </a>
+<br/>
+
+**Group Projects**
+
 
 <a href="https://github.com/HudsonFinn/T-Manager">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=T-Manager&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=T-Manager&theme=bear" />
 </a>
 
 <a href="https://github.com/HudsonFinn/HackTheBurgh">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=HackTheBurgh&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=HackTheBurgh&theme=bear" />
 </a>
 
 <a href="https://github.com/gurneetbhatia/HackQuarantine">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gurneetbhatia&repo=HackQuarantine&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurneetbhatia&repo=HackQuarantine&theme=bear" />
 </a>
 
 <a href="https://github.com/gurneetbhatia/Secure-Text-Editor">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gurneetbhatia&repo=Secure-Text-Editor&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurneetbhatia&repo=Secure-Text-Editor&theme=bear" />
 </a>
 
 
