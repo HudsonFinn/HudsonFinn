@@ -90,6 +90,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=T-Manager&theme=bear" />
 </a>
 
+<a href="https://github.com/HudsonFinn/HackTheBurgh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=HackTheBurg&theme=bear" />
+</a>
+
 <a href="https://github.com/gurneetbhatia/HackQuarantine">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gurneetbhatia&repo=HackQuarantine&theme=bear" />
 </a>
