@@ -63,7 +63,6 @@
 
 **Personal Projects**
 
-<p align="center">
   <a href="https://github.com/HudsonFinn/AlgorithmVisualiser">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=AlgorithmVisualiser&theme=bear" />
   </a>
@@ -79,23 +78,17 @@
   <a href="https://github.com/HudsonFinn/Pathfinding">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=PathFinding&theme=bear" />
   </a>
-</p>
-
-<br/>
-<br/>
-
-**Group Projects**
 
 <a href="https://github.com/HudsonFinn/T-Manager">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=T-Manager&theme=bear" />
 </a>
 
 <a href="https://github.com/HudsonFinn/HackTheBurgh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=HackTheBurgh&theme=bear" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=HackTheBurgh&theme=bear" />
 </a>
 
 <a href="https://github.com/gurneetbhatia/HackQuarantine">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gurneetbhatia&repo=HackQuarantine&theme=bear" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gurneetbhatia&repo=HackQuarantine&theme=bear" />
 </a>
 
 <a href="https://github.com/gurneetbhatia/Secure-Text-Editor">
