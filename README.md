@@ -58,7 +58,7 @@
 - I found AWS [course][aws] an amazing introduction to cloud computing and great preparation for the Cloud Practitioner Certification!
 - If you want a more certification specific course then this [video][AWScert] from freecodecamp helped me pass my exam in less than 3 days of study.
 - Docker is a super cool technology which I have recently learned about. Its quite hard to find an up to date complete beginner course but [this one][docker] is very good. Make sure you do the hands on labs as well!
-- I'm currently learning angluar on pluralsight. I'm doing the [55 hour course][Angular55] but if you don't want to go into that much depth then this [9 hour course][Angular9] is a good introduction and will give you a good grounding.
+- I'm currently learning angluar on pluralsight. I'm doing the [55 hour course][Angular55] but if you don't want to go into that much depth then this [9 hour course][Angular9] is a good introduction and will give you a good grounding in the concepts and syntax.
 ---
 
 **Personal Projects**
