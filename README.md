@@ -58,7 +58,8 @@
 - I found AWS [course][aws] an amazing introduction to cloud computing and great preparation for the Cloud Practitioner Certification!
 - If you want a more certification specific course then this [video][AWScert] from freecodecamp helped me pass my exam in less than 3 days of study.
 - Docker is a super cool technology which I have recently learned about. Its quite hard to find an up to date complete beginner course but [this one][docker] is very good. Make sure you do the hands on labs as well!
-- I'm currently learning angluar on pluralsight. I'm doing the [55 hour course][Angular55] but if you don't want to go into that much depth then this [9 hour course][Angular9] is a good introduction and will give you a good grounding in the concepts and syntax.
+- I've started learning angluar on pluralsight. I'm doing the [55 hour course][Angular55] but if you don't want to go into that much depth then this [9 hour course][Angular9] is a good introduction and will give you a good grounding in the concepts and syntax.
+- I've completed [this][React] react tutorial on Udemy, I would highly recommend it as it give you a great overview of react and redux, plus introduces you to some backend concepts. I would also just recommend [Brad Traversys'][Brad] context in general as everything that I have seen is of great quality.
 ---
 
 **Personal Projects**
@@ -113,3 +114,5 @@
 [AWScert]: https://youtu.be/3hLmDS179YE
 [Angular9]: https://app.pluralsight.com/library/courses/angular-fundamentals/table-of-contents
 [Angular55]: https://app.pluralsight.com/paths/skill/angular
+[React]: https://www.udemy.com/course/modern-react-front-to-back/
+[Brad]: https://www.youtube.com/traversymedia
