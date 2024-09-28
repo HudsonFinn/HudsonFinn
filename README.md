@@ -31,13 +31,11 @@
 
 ---
 
-### Hey I'm Finn, currently a student at the University of Manchester studying Human Computer Interaction!
+### Hey I'm Finn, currently an SDEII at Amazon previously at the University of Manchester studying Human Computer Interaction!
 
-- 🌐 I'm currently a Google Developer Student Club Lead.
-- 🌱 I'm helping to establish the HCI society.
-- 👯 I'm working on the Developer team for the UniCS.
-- 🥅 2020 Goal: Learn everything I can about cloud computing!
-- 😊 Fun fact: I'm learning to make cocktails and speak Norwegian!
+- 🌐 Founder of a Google Developer Student Club.
+- 🌱 Founder of a HCI society.
+- 👯 I'm working at Amazon.
 
 **Connect with me:**
 
@@ -60,6 +58,7 @@
 - Docker is a super cool technology which I have recently learned about. Its quite hard to find an up to date complete beginner course but [this one][docker] is very good. Make sure you do the hands on labs as well!
 - I've started learning angluar on pluralsight. I'm doing the [55 hour course][Angular55] but if you don't want to go into that much depth then this [9 hour course][Angular9] is a good introduction and will give you a good grounding in the concepts and syntax.
 - I've completed [this][React] react tutorial on Udemy, I would highly recommend it as it give you a great overview of react and redux, plus introduces you to some backend concepts. I would also just recommend [Brad Traversys'][Brad] context in general as everything that I have seen is of great quality.
+
 ---
 
 **Personal Projects**
@@ -84,7 +83,6 @@
 
 **Group Projects**
 
-
 <a href="https://github.com/HudsonFinn/T-Manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HudsonFinn&repo=T-Manager&theme=bear" />
 </a>
@@ -100,7 +98,6 @@
 <a href="https://github.com/gurneetbhatia/Secure-Text-Editor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gurneetbhatia&repo=Secure-Text-Editor&theme=bear" />
 </a>
-
 
 [website]: https:www.finnhudson.co.uk
 [linkedin]: https://www.linkedin.com/in/finn-hudson/
