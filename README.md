@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HudsonFinn&color=red&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=HudsonFinn&color=green&style=plastic" />
 </p>
 
 <a href="https://www.linkedin.com/in/finn-hudson/">
